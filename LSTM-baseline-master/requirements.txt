@@ -1,0 +1,8 @@
+tqdm
+jieba
+spacy
+pathlib2
+pandas
+numpy
+scipy
+nltk
